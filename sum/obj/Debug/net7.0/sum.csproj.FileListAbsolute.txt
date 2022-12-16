@@ -1,0 +1,15 @@
+C:\Users\37525\OneDrive\Рабочий стол\C#\sum\bin\Debug\net7.0\sum.exe
+C:\Users\37525\OneDrive\Рабочий стол\C#\sum\bin\Debug\net7.0\sum.deps.json
+C:\Users\37525\OneDrive\Рабочий стол\C#\sum\bin\Debug\net7.0\sum.runtimeconfig.json
+C:\Users\37525\OneDrive\Рабочий стол\C#\sum\bin\Debug\net7.0\sum.dll
+C:\Users\37525\OneDrive\Рабочий стол\C#\sum\bin\Debug\net7.0\sum.pdb
+C:\Users\37525\OneDrive\Рабочий стол\C#\sum\obj\Debug\net7.0\sum.csproj.AssemblyReference.cache
+C:\Users\37525\OneDrive\Рабочий стол\C#\sum\obj\Debug\net7.0\sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\37525\OneDrive\Рабочий стол\C#\sum\obj\Debug\net7.0\sum.AssemblyInfoInputs.cache
+C:\Users\37525\OneDrive\Рабочий стол\C#\sum\obj\Debug\net7.0\sum.AssemblyInfo.cs
+C:\Users\37525\OneDrive\Рабочий стол\C#\sum\obj\Debug\net7.0\sum.csproj.CoreCompileInputs.cache
+C:\Users\37525\OneDrive\Рабочий стол\C#\sum\obj\Debug\net7.0\sum.dll
+C:\Users\37525\OneDrive\Рабочий стол\C#\sum\obj\Debug\net7.0\refint\sum.dll
+C:\Users\37525\OneDrive\Рабочий стол\C#\sum\obj\Debug\net7.0\sum.pdb
+C:\Users\37525\OneDrive\Рабочий стол\C#\sum\obj\Debug\net7.0\sum.genruntimeconfig.cache
+C:\Users\37525\OneDrive\Рабочий стол\C#\sum\obj\Debug\net7.0\ref\sum.dll
