@@ -1,0 +1,15 @@
+C:\Users\37525\OneDrive\Рабочий стол\C#\masha\obj\Debug\net7.0\masha.csproj.AssemblyReference.cache
+C:\Users\37525\OneDrive\Рабочий стол\C#\masha\obj\Debug\net7.0\masha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\37525\OneDrive\Рабочий стол\C#\masha\obj\Debug\net7.0\masha.AssemblyInfoInputs.cache
+C:\Users\37525\OneDrive\Рабочий стол\C#\masha\obj\Debug\net7.0\masha.AssemblyInfo.cs
+C:\Users\37525\OneDrive\Рабочий стол\C#\masha\obj\Debug\net7.0\masha.csproj.CoreCompileInputs.cache
+C:\Users\37525\OneDrive\Рабочий стол\C#\masha\bin\Debug\net7.0\masha.exe
+C:\Users\37525\OneDrive\Рабочий стол\C#\masha\bin\Debug\net7.0\masha.deps.json
+C:\Users\37525\OneDrive\Рабочий стол\C#\masha\bin\Debug\net7.0\masha.runtimeconfig.json
+C:\Users\37525\OneDrive\Рабочий стол\C#\masha\bin\Debug\net7.0\masha.dll
+C:\Users\37525\OneDrive\Рабочий стол\C#\masha\bin\Debug\net7.0\masha.pdb
+C:\Users\37525\OneDrive\Рабочий стол\C#\masha\obj\Debug\net7.0\masha.dll
+C:\Users\37525\OneDrive\Рабочий стол\C#\masha\obj\Debug\net7.0\refint\masha.dll
+C:\Users\37525\OneDrive\Рабочий стол\C#\masha\obj\Debug\net7.0\masha.pdb
+C:\Users\37525\OneDrive\Рабочий стол\C#\masha\obj\Debug\net7.0\masha.genruntimeconfig.cache
+C:\Users\37525\OneDrive\Рабочий стол\C#\masha\obj\Debug\net7.0\ref\masha.dll
