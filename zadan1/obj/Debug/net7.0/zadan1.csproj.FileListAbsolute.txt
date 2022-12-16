@@ -1,0 +1,15 @@
+C:\Users\37525\OneDrive\Рабочий стол\C#\zadan1\bin\Debug\net7.0\zadan1.exe
+C:\Users\37525\OneDrive\Рабочий стол\C#\zadan1\bin\Debug\net7.0\zadan1.deps.json
+C:\Users\37525\OneDrive\Рабочий стол\C#\zadan1\bin\Debug\net7.0\zadan1.runtimeconfig.json
+C:\Users\37525\OneDrive\Рабочий стол\C#\zadan1\bin\Debug\net7.0\zadan1.dll
+C:\Users\37525\OneDrive\Рабочий стол\C#\zadan1\bin\Debug\net7.0\zadan1.pdb
+C:\Users\37525\OneDrive\Рабочий стол\C#\zadan1\obj\Debug\net7.0\zadan1.csproj.AssemblyReference.cache
+C:\Users\37525\OneDrive\Рабочий стол\C#\zadan1\obj\Debug\net7.0\zadan1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\37525\OneDrive\Рабочий стол\C#\zadan1\obj\Debug\net7.0\zadan1.AssemblyInfoInputs.cache
+C:\Users\37525\OneDrive\Рабочий стол\C#\zadan1\obj\Debug\net7.0\zadan1.AssemblyInfo.cs
+C:\Users\37525\OneDrive\Рабочий стол\C#\zadan1\obj\Debug\net7.0\zadan1.csproj.CoreCompileInputs.cache
+C:\Users\37525\OneDrive\Рабочий стол\C#\zadan1\obj\Debug\net7.0\zadan1.dll
+C:\Users\37525\OneDrive\Рабочий стол\C#\zadan1\obj\Debug\net7.0\refint\zadan1.dll
+C:\Users\37525\OneDrive\Рабочий стол\C#\zadan1\obj\Debug\net7.0\zadan1.pdb
+C:\Users\37525\OneDrive\Рабочий стол\C#\zadan1\obj\Debug\net7.0\zadan1.genruntimeconfig.cache
+C:\Users\37525\OneDrive\Рабочий стол\C#\zadan1\obj\Debug\net7.0\ref\zadan1.dll
