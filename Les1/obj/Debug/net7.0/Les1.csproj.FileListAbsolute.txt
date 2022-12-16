@@ -1,0 +1,15 @@
+C:\Users\37525\OneDrive\Рабочий стол\C#\Les1\bin\Debug\net7.0\Les1.exe
+C:\Users\37525\OneDrive\Рабочий стол\C#\Les1\bin\Debug\net7.0\Les1.deps.json
+C:\Users\37525\OneDrive\Рабочий стол\C#\Les1\bin\Debug\net7.0\Les1.runtimeconfig.json
+C:\Users\37525\OneDrive\Рабочий стол\C#\Les1\bin\Debug\net7.0\Les1.dll
+C:\Users\37525\OneDrive\Рабочий стол\C#\Les1\bin\Debug\net7.0\Les1.pdb
+C:\Users\37525\OneDrive\Рабочий стол\C#\Les1\obj\Debug\net7.0\Les1.csproj.AssemblyReference.cache
+C:\Users\37525\OneDrive\Рабочий стол\C#\Les1\obj\Debug\net7.0\Les1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\37525\OneDrive\Рабочий стол\C#\Les1\obj\Debug\net7.0\Les1.AssemblyInfoInputs.cache
+C:\Users\37525\OneDrive\Рабочий стол\C#\Les1\obj\Debug\net7.0\Les1.AssemblyInfo.cs
+C:\Users\37525\OneDrive\Рабочий стол\C#\Les1\obj\Debug\net7.0\Les1.csproj.CoreCompileInputs.cache
+C:\Users\37525\OneDrive\Рабочий стол\C#\Les1\obj\Debug\net7.0\Les1.dll
+C:\Users\37525\OneDrive\Рабочий стол\C#\Les1\obj\Debug\net7.0\refint\Les1.dll
+C:\Users\37525\OneDrive\Рабочий стол\C#\Les1\obj\Debug\net7.0\Les1.pdb
+C:\Users\37525\OneDrive\Рабочий стол\C#\Les1\obj\Debug\net7.0\Les1.genruntimeconfig.cache
+C:\Users\37525\OneDrive\Рабочий стол\C#\Les1\obj\Debug\net7.0\ref\Les1.dll
